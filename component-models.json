@@ -177,7 +177,17 @@
         "label": "Alt",
         "value": ""
       },
-{
+    
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
   "id": "quote",
   "fields": [
     {
@@ -195,14 +205,5 @@
       "value": ""
     }
   ]
-},      
-      {
-        "component": "richtext",
-        "name": "text",
-        "value": "",
-        "label": "Text",
-        "valueType": "string"
-      }
-    ]
-  }
+} 
 ]
